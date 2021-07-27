@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tabsusingreact/static/css/main.04be9aba.chunk.css",
+    "main.js": "/tabsusingreact/static/js/main.625023c9.chunk.js",
+    "main.js.map": "/tabsusingreact/static/js/main.625023c9.chunk.js.map",
+    "runtime-main.js": "/tabsusingreact/static/js/runtime-main.0743caa4.js",
+    "runtime-main.js.map": "/tabsusingreact/static/js/runtime-main.0743caa4.js.map",
+    "static/js/2.3db4d54d.chunk.js": "/tabsusingreact/static/js/2.3db4d54d.chunk.js",
+    "static/js/2.3db4d54d.chunk.js.map": "/tabsusingreact/static/js/2.3db4d54d.chunk.js.map",
+    "static/js/3.8b301f6e.chunk.js": "/tabsusingreact/static/js/3.8b301f6e.chunk.js",
+    "static/js/3.8b301f6e.chunk.js.map": "/tabsusingreact/static/js/3.8b301f6e.chunk.js.map",
+    "index.html": "/tabsusingreact/index.html",
+    "static/css/main.04be9aba.chunk.css.map": "/tabsusingreact/static/css/main.04be9aba.chunk.css.map",
+    "static/js/2.3db4d54d.chunk.js.LICENSE.txt": "/tabsusingreact/static/js/2.3db4d54d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tabsusingreact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0743caa4.js",
+    "static/js/2.3db4d54d.chunk.js",
+    "static/css/main.04be9aba.chunk.css",
+    "static/js/main.625023c9.chunk.js"
+  ]
+}
