@@ -1,0 +1,67 @@
+body{
+    background-color: #fff;
+}
+.card-container{
+    display:flex;
+    margin: 30px;
+}
+.card-main{
+    background-color:#fff;
+    padding: 10px;
+    box-shadow: 10px 10px 10px #ccc;
+    border: 1px solid #ccc;
+    margin:10px;
+    width: 500px;
+}
+.card-title{
+    color: #002b70;
+    font-weight: bold;
+    font-size: 25px;
+}
+.card-body{
+    padding: 10px;
+}
+.card-footer{
+    text-align: center;
+    padding: 10px;
+}
+.socialButton{
+    background-color: #002b70;
+    color: #fff;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    font-weight: bold;
+    box-shadow: 1px 1px 1px #ccc;
+}
+.role{
+    margin: 10px;
+    font-weight: bold;
+}
+.image-avat{
+    border:1px solid #ccc;
+    border-radius:50%;
+    box-shadow:1px 1px 1px #ccc;
+}
+.btn{
+    margin-top: 20px;
+    color: #002b70;
+    background-color: #fff;
+    padding: 8px;
+    font-weight: bold;
+    outline: none;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.active {
+    background-color: #002b70;
+    border: 1px solid #ccc;
+    color: #fff;
+    margin-top: 20px;
+    padding: 10px;
+    font-weight: bold;
+    outline: none;
+    margin-left: 10px;
+    cursor: pointer;
+}
